@@ -1,0 +1,5 @@
+2026;;06;;17;;12;;12;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\""
+2026;;07;;7;;10;;07;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\""
+2026;;07;;12;;15;;00;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\""
+2026;;07;;x;;x;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\""
+2026;;07;;12;;15;;32;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\""
