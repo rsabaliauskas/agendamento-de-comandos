@@ -37,3 +37,5 @@ Esse programa suporta ano, mês, dia, hora e minutos e permite o uso de coringa 
  Teoricamente pode rodar no Windows, mas os comandos tem de ser os que ele aceita.
 
  Se usar agendamentos em vários dias é necessário garantir que esse programa seja inicializado junto com o sistema operaional.
+
+ A responsabilidade é inteiramente sua.
