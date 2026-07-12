@@ -27,7 +27,13 @@ Esse programa suporta ano, mês, dia, hora e minutos e permite o uso de coringa 
  - 4º campo é o hora, com dois dígitos, ex. 04, 18.
  - 5º campo é o minutos, com dois dígitos, ex.01, 12.
  - 6º campo é o comando a ser executado, com cada palavra escrito entre aspas dupas e caso o comando já tenha aspas então substituir por "\\".
+
+ OBS:
  
  Ao executá-lo ele rodará em loop de 60 em 60 segundos (1 minutos) e em vista disso ele pode apresentar um atraso de 59 segundos, dependendo do momento em que é executado.
  
  Depois de executado e estar rodando em loop e lendo o aquivo comandos.txt, é possível acrescentar ou retirar entradas de datas/horas/comandos do arquivo comandos.txt
+
+ Teoricamente pode rodar no Windows, mas os comandos tem de ser os que ele aceita.
+
+ Se usar agendamentos em vários dias é necessário garantir que esse programa seja inicializado junto com o sistema operaional.
