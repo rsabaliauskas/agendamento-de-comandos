@@ -1,7 +1,7 @@
 Projeto Agendamento de Comandos
 ===============================
 
-Eu uso linux a quase 30 anos e nele existe como agendamento de execução de comandos existe o "cron" a nível do sistema e o comando "at" a nível de usuário. 
+Eu uso linux a quase 30 anos e nele existe como agendamento de execução de comandos o "cron" a nível do sistema e o comando "at" a nível de usuário. 
 Porém, em alguns casos este programa pode ser útil.
 
 Esse programa suporta ano, mês, dia, hora minutos e permite o uso de coringa (letra "x") pra campos repetitíveis.
