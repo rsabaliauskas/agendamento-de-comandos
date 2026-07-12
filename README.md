@@ -8,7 +8,7 @@ Esse programa suporta ano, mês, dia, hora e minutos e permite o uso de coringa 
 
 1 exemplo de entrada de ação no comando.txt:
 
-  2026;;07;;x;;x;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\"
+  2026;;07;;x;;x;;x;;"notify-send" "-u" "critical" "-t" "0" "\\"hora do cafe"\\"
   
   No exemplo acima o comando notify-send...  será executado todos os dias, todas as hora e todos os minutos do mês 07/2026.
   
