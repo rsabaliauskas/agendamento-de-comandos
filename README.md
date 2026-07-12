@@ -7,11 +7,11 @@ Porém, em alguns casos este programa pode ser útil.
 Esse programa suporta ano, mês, dia, hora e minutos e permite o uso de coringa (letra "x") pra agendamentos multiplos.
 
 1 exemplo de entrada de ação no comando.txt:
-2026;;07;;x;;x;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\"
+  2026;;07;;x;;x;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\"
   No exemplo acima o comando notify-send...  será executado todos os dias, todas as hora e todos os minutos do mês 07/2026.
   
 2 exemplo de entrada de ação no comando.txt:  
-2026;;07;;12;;20;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\"
+  2026;;07;;12;;20;;x;;"notify-send" "-u" "critical" "-t" "0" "\"hora do cafe\"
   No exemplo acima o comando notify-send...  será executado todos os minutos da hora 23 do mês 12/07/2026.
   
  - os campos estão dividos por ";;" e:
