@@ -19,14 +19,14 @@ Esse programa suporta ano, mês, dia, hora e minutos e permite o uso de coringa 
   No exemplo acima o comando notify-send...  será executado todos os minutos da hora 23 do mês 12/07/2026.
   
   
- - os campos estão dividos por ";;" e:
+  os campos estão dividos por ";;" e:
    
- -- 1º campo é o ano, com 4 dígitos, ex. 2026.
- -- 2º campo é o mês, com dois dígitos, ex. 07.
- -- 3º campo é o dia, com dois dígitos, ex. 01.
- -- 4º campo é o hora, com dois dígitos, ex. 04, 18.
- -- 5º campo é o minutos, com dois dígitos, ex.01, 12.
- -- 6º campo é o comando a ser executado, com cada palavra escrito entre aspas dupas e caso o comando já tenha aspas então substituir por "\".
+ - 1º campo é o ano, com 4 dígitos, ex. 2026.
+ - 2º campo é o mês, com dois dígitos, ex. 07.
+ - 3º campo é o dia, com dois dígitos, ex. 01.
+ - 4º campo é o hora, com dois dígitos, ex. 04, 18.
+ - 5º campo é o minutos, com dois dígitos, ex.01, 12.
+ - 6º campo é o comando a ser executado, com cada palavra escrito entre aspas dupas e caso o comando já tenha aspas então substituir por "\".
  
  Ao executá-lo ele rodará em loop de 60 em 60 segundos (1 minutos) e em vista disso ele pode apresentar um atraso de 59 segundos, dependendo dao momento em que é executado.
  
